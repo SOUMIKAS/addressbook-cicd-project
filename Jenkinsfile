@@ -1,5 +1,5 @@
 pipeline{
-    agent any
+    agent anyname
     stages{
         stage('github validation'){
           steps{
